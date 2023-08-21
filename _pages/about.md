@@ -53,8 +53,8 @@ None.
 ### Communications
 
 * I am committed to supporting your learning experience, which is why I will be recording lectures and making them available on Canvas. However, active participation is essential. If class attendance falls below 50%, I'll have to reconsider and may cease the lecture recordings.
-* Class discussion: [Piazza](https://piazza.com/)
-* Lecture materials (slides, assignments): [Canvas](https://canvas.virginia.edu/)
+* Class discussion: [Piazza](https://canvas.its.virginia.edu/courses/74191)
+* Lecture materials (slides, assignments): [Canvas](https://canvas.its.virginia.edu/courses/74191)
 
 ---
 ### Grading

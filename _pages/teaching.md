@@ -38,7 +38,11 @@ nav_order: 2
 | Nov. 9  | Cross-Site Scripting (XSS)        |   |
 | Nov. 14 | Cross-Site Request Forgery (CSRF) |   |
 | Nov. 16 | Clickjacking                      |   |
-|  <!-- -->|  **Module 4: Network Security**  |  <!-- --> |
+<table>
+  <tr style="background-color: grey;">
+    <th colspan="3">Module 4: Network Security</th>
+  </tr>
+</table>
 | Nov. 21 | Network Basics             |   |
 | Nov. 23 | No Class - Thanksgiving 🦃 |   |
 | Nov. 28 | Network Security I         |   |
