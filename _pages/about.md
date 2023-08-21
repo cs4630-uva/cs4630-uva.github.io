@@ -20,21 +20,21 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 <!-- part 1 -->
-**Course Objectives**
+### Course Objectives
 
 This course aims to equip students with a comprehensive understanding of the multifaceted realm of computer security. Participants will delve into the ethical considerations tied to computer security breaches, grasp the intricacies of software vulnerabilities, and discern how adversaries exploit them. The curriculum offers insights into a plethora of malware types, such as viruses, worms, ransomware, and trojans, as well as other attacks encompassing social engineering, phishing, and denial of service. By the end of the course, students will be proficient in the methods to prevent, detect, and repair malware threats and will have hands-on experience with program binary examination tools to identify malicious code.
 
 ---
 
-## Instructor
+### Instructor
 
-<div class="row row-cols-1 projects pt-3 pb-3">
+<div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Wajih Ul Hassan" affiliation="hassan@virginia.edu" url="https://www.cs.virginia.edu/~hur7wv/" img="/assets/img/team/wajih.jpeg" %}
 
 </div>
 
-## Teaching Assistants
-<div class="row row-cols-1 projects pt-3 pb-3">
+### Teaching Assistants
+<div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Arnabjyoti (Arnab) Kalita" affiliation="mje6jj@virginia.edu" url="" img="/assets/img/team/1.jpg" %}
   {% include people_horizontal.html name="Anne Zhang" affiliation="txd5dg@virginia.edu" url="" img="/assets/img/team/1.jpg" %}
   {% include people_horizontal.html name="Di Zhu" affiliation="yqx8es@virginia.edu" url="" img="/assets/img/team/di.jpeg" %}
@@ -42,21 +42,21 @@ This course aims to equip students with a comprehensive understanding of the mul
 
 ---
 
-**Lectures**
+### Lectures
 
 TuTh 5:00PM-6:15PM, Room: Olsson Hall 005
 
 ---
 
 <!-- part 4 -->
-**Required Text Book**
+### Required Text Book
 
 None.
 
 ---
 
 <!-- part 5 -->
-**Communications**
+### Communications
 
 * I am committed to supporting your learning experience, which is why I will be recording lectures and making them available on Canvas. However, active participation is essential. If class attendance falls below 50%, I'll have to reconsider and may cease the lecture recordings.
 * Class discussion: [Piazza](https://piazza.com/)
@@ -65,7 +65,7 @@ None.
 ---
 
 <!-- part 6 -->
-**Grading**
+### Grading
 
 * Assignments	35%	
 
@@ -95,7 +95,7 @@ None.
 ---
 
 <!-- part 7 -->
-**Schedule**
+### Schedule
 Click <a href='/schedule'>here</a>. 
 
 <!-- part 8 -->
