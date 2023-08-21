@@ -19,13 +19,11 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-<!-- part 1 -->
 ### Course Objectives
 
 This course aims to equip students with a comprehensive understanding of the multifaceted realm of computer security. Participants will delve into the ethical considerations tied to computer security breaches, grasp the intricacies of software vulnerabilities, and discern how adversaries exploit them. The curriculum offers insights into a plethora of malware types, such as viruses, worms, ransomware, and trojans, as well as other attacks encompassing social engineering, phishing, and denial of service. By the end of the course, students will be proficient in the methods to prevent, detect, and repair malware threats and will have hands-on experience with program binary examination tools to identify malicious code.
 
 ---
-
 ### Instructor
 
 <div class="row row-cols-2 projects pt-3 pb-3">
@@ -33,6 +31,7 @@ This course aims to equip students with a comprehensive understanding of the mul
 
 </div>
 
+---
 ### Teaching Assistants
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Arnabjyoti (Arnab) Kalita" email="mje6jj@virginia.edu" officehours="3:30pm -5pm Fridays" url="" img="/assets/img/team/1.jpg" %}
@@ -41,21 +40,16 @@ This course aims to equip students with a comprehensive understanding of the mul
 </div>
 
 ---
-
 ### Lectures
 
 TuTh 5:00PM-6:15PM, Room: Olsson Hall 005
 
 ---
-
-<!-- part 4 -->
 ### Required Text Book
 
 None.
 
 ---
-
-<!-- part 5 -->
 ### Communications
 
 * I am committed to supporting your learning experience, which is why I will be recording lectures and making them available on Canvas. However, active participation is essential. If class attendance falls below 50%, I'll have to reconsider and may cease the lecture recordings.
@@ -63,42 +57,39 @@ None.
 * Lecture materials (slides, assignments): [Canvas](https://canvas.virginia.edu/)
 
 ---
-
-<!-- part 6 -->
 ### Grading
 
-* Assignments	35%	
+* **Assignments	35%**
 
-    Around eight programming assignments.
-
+  * Around eight programming assignments.
   * Assignments will be weighted according to complexity and difficulty.
   * A grade of zero will be recorded for late assignments unless prior arrangements are made.
   * Late submission of assignments will be accepted for up to two (2) days after the deadline, with a 10% per day penalty.
-  * You are free to develop assignments on any platform/OS you wish. However, you are responsible for porting your code to the platform the class is using and ensuring that it runs correctly. Our reference system will be Ubuntu 18.04.1 LTS desktop. We will install the 64-bit OS, but will analyze 32-bit applications.  
+  * You are free to develop assignments on any platform/OS you wish. However, you are responsible for porting your code to the platform the class is using and ensuring that it runs correctly. Our reference system will be Ubuntu 18.04.1 LTS desktop. We will install the 64-bit OS, but will analyze 32-bit applications.
 
-* Quizzes	15%	
+* **Quizzes	15%**
 
-    Total six quizzes.
-
+  * Total six quizzes.
   * All quizzes will be in-person (during class timings).
-  *  Out of these six quizzes, only best five will count towards your grade (N-1 Policy).
-  *  All the quizes will be announced.  
+  * Out of these six quizzes, only best five will count towards your grade (N-1 Policy).
+  * All the quizes will be announced.
 
-* Midterm Exam	20%	
+* **Midterm Exam	20%**
 
-    Covering material in the first half of class.
+  * Covering material in the first half of class.
 
-* Final exam	30%	
+* **Final exam	30%**
 
-    Covering all material from the course.
+  * Covering all material from the course.
 
 ---
 
 <!-- part 7 -->
 ### Schedule
-Click <a href='/schedule'>here</a>. 
+Click <a href='/schedule'>here</a>.
 
 <!-- part 8 -->
+### Policies and Statements
 <details>
   <summary>Academic Integrity</summary>
 
