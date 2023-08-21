@@ -60,35 +60,30 @@ None.
 ### Grading
 
 * **Assignments	35%**
-
   * Around eight programming assignments.
   * Assignments will be weighted according to complexity and difficulty.
   * A grade of zero will be recorded for late assignments unless prior arrangements are made.
   * Late submission of assignments will be accepted for up to two (2) days after the deadline, with a 10% per day penalty.
   * You are free to develop assignments on any platform/OS you wish. However, you are responsible for porting your code to the platform the class is using and ensuring that it runs correctly. Our reference system will be Ubuntu 18.04.1 LTS desktop. We will install the 64-bit OS, but will analyze 32-bit applications.
 
-* **Quizzes	15%**
 
+* **Quizzes	15%**
   * Total six quizzes.
   * All quizzes will be in-person (during class timings).
   * Out of these six quizzes, only best five will count towards your grade (N-1 Policy).
   * All the quizes will be announced.
 
 * **Midterm Exam	20%**
-
   * Covering material in the first half of class.
 
 * **Final exam	30%**
-
   * Covering all material from the course.
 
 ---
-
-<!-- part 7 -->
 ### Schedule
 Click <a href='/schedule'>here</a>.
 
-<!-- part 8 -->
+---
 ### Policies and Statements
 <details>
   <summary>Academic Integrity</summary>
