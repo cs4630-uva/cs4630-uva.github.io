@@ -1,23 +1,23 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: CS4630. Fall 2023. University of Virginia. 
+subtitle: CS4630. Fall 2023. University of Virginia.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>E-mail: hassan@virginia.edu</p>
-    <p>Office: Rice Hall, Room 522</p>
-    <p>Office hours: Wednesdays 11AM-Noon and by appointment</p>
+# profile:
+#   align: right
+#   image: prof_pic.jpg
+#   image_circular: false # crops the image to make it circular
+#   address: >
+#     <p>E-mail: hassan@virginia.edu</p>
+#     <p>Office: Rice Hall, Room 522</p>
+#     <p>Office hours: Wednesdays 11AM-Noon and by appointment</p>
     
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 <!-- part 1 -->
 **Course Objectives**
@@ -26,7 +26,21 @@ This course aims to equip students with a comprehensive understanding of the mul
 
 ---
 
-<!-- part 2 -->
+## Instructor
+
+<div class="row row-cols-1 projects pt-3 pb-3">
+  {% include people_horizontal.html name="Wajih Ul Hassan" affiliation="hassan@virginia.edu" url="https://www.cs.virginia.edu/~hur7wv/" img="/assets/img/team/wajih.jpeg" %}
+
+</div>
+
+## Teaching Assistants
+<div class="row row-cols-1 projects pt-3 pb-3">
+  {% include people_horizontal.html name="Arnabjyoti (Arnab) Kalita" affiliation="mje6jj@virginia.edu" url="" img="/assets/img/team/1.jpg" %}
+  {% include people_horizontal.html name="Anne Zhang" affiliation="txd5dg@virginia.edu" url="" img="/assets/img/team/1.jpg" %}
+  {% include people_horizontal.html name="Di Zhu" affiliation="yqx8es@virginia.edu" url="" img="/assets/img/team/di.jpeg" %}
+</div>
+
+<!-- part 2
 **Teaching Assistants**
 
 * Arnabjyoti (Arnab) Kalita  
@@ -38,7 +52,7 @@ This course aims to equip students with a comprehensive understanding of the mul
 {% include figure.html path="assets/img/example.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 * Di Zhu  
 🕒 Office hours: 3:30pm - 5pm (Monday)    
-📧 Email: yqx8es@virginia.edu 
+📧 Email: yqx8es@virginia.edu  -->
 
 ---
 
