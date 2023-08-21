@@ -40,23 +40,8 @@ This course aims to equip students with a comprehensive understanding of the mul
   {% include people_horizontal.html name="Di Zhu" affiliation="yqx8es@virginia.edu" url="" img="/assets/img/team/di.jpeg" %}
 </div>
 
-<!-- part 2
-**Teaching Assistants**
-
-* Arnabjyoti (Arnab) Kalita  
-🕒 Office hours: 3:30pm - 5:00pm (Friday)   
-📧 Email: mje6jj@virginia.edu  
-* Anne Zhang  
-🕒 Office hours: 2pm-3pm (Tuesday)  
-📧 Email: txd5dg@virginia.edu
-{% include figure.html path="assets/img/example.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-* Di Zhu  
-🕒 Office hours: 3:30pm - 5pm (Monday)    
-📧 Email: yqx8es@virginia.edu  -->
-
 ---
 
-<!-- part 3 -->
 **Lectures**
 
 TuTh 5:00PM-6:15PM, Room: Olsson Hall 005
