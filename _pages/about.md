@@ -64,8 +64,7 @@ None.
   * Assignments will be weighted according to complexity and difficulty.
   * A grade of zero will be recorded for late assignments unless prior arrangements are made.
   * Late submission of assignments will be accepted for up to two (2) days after the deadline, with a 10% per day penalty.
-  * You are free to develop assignments on any platform/OS you wish. However, you are responsible for porting your code to the platform the class is using and ensuring that it runs correctly. Our reference system will be Ubuntu 18.04.1 LTS desktop. We will install the 64-bit OS, but will analyze 32-bit applications.
-
+  * You are free to develop assignments on any platform/OS you wish. However, you are responsible for porting your code to the platform the class is using and ensuring that it runs correctly. Our reference system will be Ubuntu 20.04 LTS desktop. We will install the 64-bit OS, but will analyze 32-bit applications.
 
 * **Quizzes	15%**
   * Total six quizzes.
