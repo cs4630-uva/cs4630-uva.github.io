@@ -85,10 +85,9 @@ Click <a href='/schedule'>here</a>.
 
 ---
 ### Policies and Statements
-<details>
-  <summary>Academic Integrity (click to expand)</summary>
 
-  Students are expected to be familiar with the university honor code, including the section on academic fraud (http://honor.virginia.edu/ academic-fraud).
+**Academic Integrity**
+  Students are expected to be familiar with the university honor code, including the section on [academic fraud](http://honor.virginia.edu/academic-fraud).
 
   * Students are encouraged to discuss programs in general and to help one another find bugs in existing programs. However, using another's code or writing code for someone else is cheating and a violation of the University's Honor System. This includes consulting solutions to assignments from previous years or tests from previous years. Keep code listings to provide evidence of your creative development.
 
@@ -98,31 +97,17 @@ Click <a href='/schedule'>here</a>.
   Assignments or exams where honor infractions or prohibited collaborations occur will receive a zero grade for that entire assignment or exam. Such infractions will also be submitted to the Honor Committee, if appropriate.
 
   If you have questions on what is allowable, please ask!
-</details>
 
-<!-- part 9 -->
-<details>
-  <summary>Students with disabilities or learning needs (click to expand)</summary>
-
+**Students with disabilities or learning needs**
 It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at [cmacmasters@virginia.edu](mailto:cmacmasters@virginia.edu) to schedule an appointment. For general questions please visit the [SDAC website](http://sdac.studenthealth.virginia.edu/): _sdac.studenthealth.virginia.edu_. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together.
 
-</details>
-
-<!-- part 10 -->
-<details>
-  <summary>Religious Accommodations (click to expand)</summary>
-
+**Religious Accommodations**
 It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.
 
 Students who wish to request academic accommodation for a religious observance should submit their request to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the [University's Office for Equal Opportunity and Civil Rights](mailto:UVAEOCR@virginia.edu) (EOCR) at _UVAEOCR@virginia.edu_ or 434-924-3200.
 
 
-</details>
-
-<!-- part 11 -->
-<details>
-  <summary> Harassment, Discrimination, and Interpersonal Violence (click to expand)</summary>
-
+**Harassment, Discrimination, and Interpersonal Violence**
 The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the [UVA Sexual Violence website](http://www.virginia.edu/sexualviolence) that describes reporting options and resources available - [_www.virginia.edu/sexualviolence_](http://www.virginia.edu/sexualviolence).
 
 The same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation.  [UVA prohibits discrimination and harassment](https://uvapolicy.virginia.edu/policy/HRM-009) based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, or veteran status. [UVA policy](https://uvapolicy.virginia.edu/policy/HRM-010) also prohibits retaliation for reporting such behavior.
@@ -133,22 +118,12 @@ If you would prefer to disclose such conduct to a confidential resource where wh
 
 As your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University's Title IX Coordinator. The Title IX Coordinator's job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community.
 
-</details>
-
-<details>
-  <summary> Support for your career development (click to expand)</summary>
+**Support for your career development**
 Engaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. I wish to encourage and support you in activities related to your career development. To that end, please notify me by email as far in advance as possible to arrange for appropriate accommodations.
 </details>
 
-<details>
-  <summary> Community and Identity (click to expand)</summary>
+**Community and Identity**
 The [Center for Diversity in Engineering](https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering) (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
-</details>
 
-
-
-<!-- part 12 -->
-<details>
-  <summary>Ethics Statement (click to expand)</summary>
+**Ethics Statement**
   This course includes topics related to computer security and privacy. As part of this investigation, we may cover technologies whose abuse could infringe on the rights of others. As computer scientists, we rely on the ethical use of these technologies. Unethical use includes circumvention of an existing security or privacy mechanisms for any purpose, or the dissemination, promotion, or exploitation of vulnerabilities of these services. Any activity outside the letter or spirit of these guidelines will be reported to the proper authorities and may result in dismissal from the class and possibly more severe academic and legal sanctions.
-</details>
