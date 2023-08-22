@@ -102,36 +102,53 @@ Click <a href='/schedule'>here</a>.
 
 <!-- part 9 -->
 <details>
-  <summary>Special Accommodations</summary>
+  <summary>Students with disabilities or learning needs (_click to expand_)</summary>
 
-  The University of Virginia strives to provide accessibility to all students. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with us.
+It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at [cmacmasters@virginia.edu](mailto:cmacmasters@virginia.edu) to schedule an appointment. For general questions please visit the [SDAC website](http://sdac.studenthealth.virginia.edu/): _sdac.studenthealth.virginia.edu_. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together.
 
-  If you require an accommodation to fully access this course, please contact the Student Disability Access Center (SDAC) at (434) 243-5180 or sdac@virginia.edu. If you are unsure if you require an accommodation, to request official accommodations, or to learn more about their services, you may contact the SDAC at the number above or by visiting their website at http://sdac.studenthealth.virginia.edu.
-
-  If you have already been approved for accommodations through SDAC, please make sure to send us your accommodation letter and meet with us so we can develop an implementation plan together
 </details>
 
 <!-- part 10 -->
 <details>
-  <summary>Religious Accommodations</summary>
+  <summary>Religious Accommodations (_click to expand_)</summary>
 
-  Students who wish to request academic accommodation for a religious observance should submit their request to the instructors by email as far in advance as possible. If you have questions or concerns about your request, you can contact the University's Office for Equal Opportunity and Civil Rights (EOCR) at UVAEOCR@virginia.edu or 434-924-3200. Accommodations do not relieve you of the responsibility for completion of any part of the coursework you miss as the result of a religious observance.
+It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.
+
+Students who wish to request academic accommodation for a religious observance should submit their request to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the [University's Office for Equal Opportunity and Civil Rights](mailto:UVAEOCR@virginia.edu) (EOCR) at _UVAEOCR@virginia.edu_ or 434-924-3200.
+
+
 </details>
 
 <!-- part 11 -->
 <details>
-  <summary>Discrimination and Violence</summary>
-  The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. To that end, it is vital that you know two values that the University and I hold as critically important:
+  <summary> Harassment, Discrimination, and Interpersonal Violence (_click to expand_)</summary>
 
-  * Power-based personal violence will not be tolerated.
-  * Everyone has a responsibility to do their part to maintain a safe community on Grounds.
-  * Everyone is expected to treat each other with respect and courtesy at all times.
+The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the [UVA Sexual Violence website](http://www.virginia.edu/sexualviolence) that describes reporting options and resources available - [_www.virginia.edu/sexualviolence_](http://www.virginia.edu/sexualviolence).
 
-  If you or someone you know has been affected by power-based personal violence, more information can be found on the UVA Sexual Violence website that describes reporting options and resources available www.virginia.edu/sexualviolence. As your professor, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am designated responsible employee, which means that I am required by University policy and federal law to report what you tell me to the University's Title IX Coordinator. The Title IX Coordinator's job is to ensure that the reporting student receives the resources and support that they need, while also reviewing the information presented to determine whether further action is necessary to ensure survivor safety and the safety of the University community. If you wish to report something that you have seen, use the Just Report It portal (http://justreportit.virginia.edu/). The worst possible situation would be for you or your friend to remain silent when there are so many here willing and able to help.
+The same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation.  [UVA prohibits discrimination and harassment](https://uvapolicy.virginia.edu/policy/HRM-009) based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, or veteran status. [UVA policy](https://uvapolicy.virginia.edu/policy/HRM-010) also prohibits retaliation for reporting such behavior.
+
+If you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to [Just Report It](https://justreportit.virginia.edu/) (justreportit.virginia.edu) or [contact EOCR](mailto:UVAEOCR@virginia.edu), the office of Equal Opportunity and Civil Rights.
+
+If you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to [Counseling & Psychological Services ("CAPS")](https://www.studenthealth.virginia.edu/caps) and [Women's Center Counseling Staff and Confidential Advocates ](https://womenscenter.virginia.edu/counseling/our-counseling-services)(for students of all genders).
+
+As your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University's Title IX Coordinator. The Title IX Coordinator's job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community.
+
 </details>
+
+<details>
+  <summary> Support for your career development (_click to expand_)</summary>
+Engaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. I wish to encourage and support you in activities related to your career development. To that end, please notify me by email as far in advance as possible to arrange for appropriate accommodations.
+</details>
+
+<details>
+  <summary> Community and Identity (_click to expand_)</summary>
+The [Center for Diversity in Engineering](https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering) (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
+</details>
+
+
 
 <!-- part 12 -->
 <details>
-  <summary>Ethics Statement</summary>
+  <summary>Ethics Statement (_click to expand_)</summary>
   This course includes topics related to computer security and privacy. As part of this investigation, we may cover technologies whose abuse could infringe on the rights of others. As computer scientists, we rely on the ethical use of these technologies. Unethical use includes circumvention of an existing security or privacy mechanisms for any purpose, or the dissemination, promotion, or exploitation of vulnerabilities of these services. Any activity outside the letter or spirit of these guidelines will be reported to the proper authorities and may result in dismissal from the class and possibly more severe academic and legal sanctions.
 </details>
