@@ -35,7 +35,7 @@ This course aims to equip students with a comprehensive understanding of the mul
 ### Teaching Assistants
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Arnabjyoti (Arnab) Kalita" email="mje6jj@virginia.edu" officehours="Office Hours: 3:30pm -5pm Fridays" url="" img="/assets/img/team/arnab.png" %}
-  {% include people_horizontal.html name="Anne Zhang" email="txd5dg@virginia.edu" officehours="Office Hours: 2pm-3pm Tuesdays" url="" img="/assets/img/team/1.jpg" %}
+  {% include people_horizontal.html name="Anne Zhang" email="txd5dg@virginia.edu" officehours="Office Hours: 2pm-3pm Tuesdays" url="" img="/assets/img/team/anne.jpeg" %}
   {% include people_horizontal.html name="Di Zhu" email="yqx8es@virginia.edu" officehours="Office Hours: 3:30pm-5pm Mondays"  url="" img="/assets/img/team/di.jpeg" %}
 </div>
 
