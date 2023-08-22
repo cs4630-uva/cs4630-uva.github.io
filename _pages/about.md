@@ -26,15 +26,15 @@ This course aims to equip students with a comprehensive understanding of the mul
 ---
 ### Instructor
 
-<div class="row row-cols-2 projects pt-3 pb-3">
+<div class="row row-cols-1 projects pt-3 pb-3">
   {% include people_horizontal.html name="Wajih Ul Hassan" email="hassan@virginia.edu" officehours="11AM-Noon Wednesdays" url="https://www.cs.virginia.edu/~hur7wv/" img="/assets/img/team/wajih.jpeg" %}
 
 </div>
 
 ---
 ### Teaching Assistants
-<div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Arnabjyoti (Arnab) Kalita" email="mje6jj@virginia.edu" officehours="3:30pm -5pm Fridays" url="" img="/assets/img/team/1.jpg" %}
+<div class="row row-cols-1 projects pt-2 pb-2">
+  {% include people_horizontal.html name="Arnabjyoti (Arnab) Kalita" email="mje6jj@virginia.edu" officehours="3:30pm -5pm Fridays" url="" img="/assets/img/team/arnab.png" %}
   {% include people_horizontal.html name="Anne Zhang" email="txd5dg@virginia.edu" officehours="2pm-3pm Tuesdays" url="" img="/assets/img/team/1.jpg" %}
   {% include people_horizontal.html name="Di Zhu" email="yqx8es@virginia.edu" officehours="3:30pm-5pm Mondays"  url="" img="/assets/img/team/di.jpeg" %}
 </div>
