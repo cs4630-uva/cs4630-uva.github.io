@@ -27,16 +27,16 @@ This course aims to equip students with a comprehensive understanding of the mul
 ### Instructor
 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Wajih Ul Hassan" email="hassan@virginia.edu" officehours="Office Hours: 11AM-Noon Wednesdays" office="Rice Hall 522" url="https://www.cs.virginia.edu/~hur7wv/" img="/assets/img/team/wajih.jpeg" %}
+  {% include people_horizontal.html name="Wajih Ul Hassan" email="hassan@virginia.edu" officehours="Office Hours: Wednesdays 11AM-Noon" office="Rice Hall 522" url="https://www.cs.virginia.edu/~hur7wv/" img="/assets/img/team/wajih.jpeg" %}
 
 </div>
 
 ---
 ### Teaching Assistants
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Arnabjyoti (Arnab) Kalita" email="mje6jj@virginia.edu" officehours="Office Hours: 3:30pm -5pm Fridays" url="" img="/assets/img/team/arnab.png" %}
-  {% include people_horizontal.html name="Anne Zhang" email="txd5dg@virginia.edu" officehours="Office Hours: 2pm-3pm Tuesdays" url="" img="/assets/img/team/anne.jpeg" %}
-  {% include people_horizontal.html name="Di Zhu" email="yqx8es@virginia.edu" officehours="Office Hours: 3:30pm-5pm Mondays"  url="" img="/assets/img/team/di.jpeg" %}
+  {% include people_horizontal.html name="Arnabjyoti (Arnab) Kalita" email="mje6jj@virginia.edu" officehours="Office Hours: Fridays 3:30pm -5pm " url="" img="/assets/img/team/arnab.png" %}
+  {% include people_horizontal.html name="Anne Zhang" email="txd5dg@virginia.edu" officehours="Office Hours: Tuesdays 2pm-3pm" url="" img="/assets/img/team/anne.jpeg" %}
+  {% include people_horizontal.html name="Di Zhu" email="yqx8es@virginia.edu" officehours="Office Hours: Mondays 3:30pm-5pm"  url="" img="/assets/img/team/di.jpeg" %}
 </div>
 
 ---
