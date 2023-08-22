@@ -5,10 +5,12 @@
         <div class="card-img col-sm-4">
           {% include figure.html path=include.img alt=include.name %}
         </div>
-        <div class="col-sm-6">
+        <div class="col-sm-7">
           <div class="card-body">
-            <h5 class="card-title text-right">{{ include.name }}</h5>
-            <p class="card-text text-right">{{ include.email include.officehours }}</p>
+            <h5 class="card-title text-left">{{ include.name }}</h5>
+            <p class="card-text text-left">{{ include.email }}</p>
+            <p class="card-text text-left">{{ include.officehours }}</p>
+
           </div>
         </div>
       </div>
