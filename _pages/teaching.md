@@ -4,7 +4,7 @@ permalink: /schedule/
 title: Schedule
 description: This schedule is subject to change. Please check back frequently. Major changes will be announced in class.
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 <table class="table table-bordered table-hover table-condensed">
