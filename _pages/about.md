@@ -86,7 +86,7 @@ Click <a href='/schedule'>here</a>.
 ---
 ### Policies and Statements
 <details>
-  <summary>Academic Integrity</summary>
+  <summary>Academic Integrity (click to expand)</summary>
 
   Students are expected to be familiar with the university honor code, including the section on academic fraud (http://honor.virginia.edu/ academic-fraud).
 
@@ -102,7 +102,7 @@ Click <a href='/schedule'>here</a>.
 
 <!-- part 9 -->
 <details>
-  <summary>Students with disabilities or learning needs (_click to expand_)</summary>
+  <summary>Students with disabilities or learning needs (click to expand)</summary>
 
 It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at [cmacmasters@virginia.edu](mailto:cmacmasters@virginia.edu) to schedule an appointment. For general questions please visit the [SDAC website](http://sdac.studenthealth.virginia.edu/): _sdac.studenthealth.virginia.edu_. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together.
 
@@ -110,7 +110,7 @@ It is my goal to create a learning experience that is as accessible as possible.
 
 <!-- part 10 -->
 <details>
-  <summary>Religious Accommodations (_click to expand_)</summary>
+  <summary>Religious Accommodations (click to expand)</summary>
 
 It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.
 
@@ -121,7 +121,7 @@ Students who wish to request academic accommodation for a religious observance s
 
 <!-- part 11 -->
 <details>
-  <summary> Harassment, Discrimination, and Interpersonal Violence (_click to expand_)</summary>
+  <summary> Harassment, Discrimination, and Interpersonal Violence (click to expand)</summary>
 
 The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the [UVA Sexual Violence website](http://www.virginia.edu/sexualviolence) that describes reporting options and resources available - [_www.virginia.edu/sexualviolence_](http://www.virginia.edu/sexualviolence).
 
@@ -136,12 +136,12 @@ As your professor and as a person, know that I care about you and your well-bein
 </details>
 
 <details>
-  <summary> Support for your career development (_click to expand_)</summary>
+  <summary> Support for your career development (click to expand)</summary>
 Engaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. I wish to encourage and support you in activities related to your career development. To that end, please notify me by email as far in advance as possible to arrange for appropriate accommodations.
 </details>
 
 <details>
-  <summary> Community and Identity (_click to expand_)</summary>
+  <summary> Community and Identity (click to expand)</summary>
 The [Center for Diversity in Engineering](https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering) (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
 </details>
 
@@ -149,6 +149,6 @@ The [Center for Diversity in Engineering](https://engineering.virginia.edu/about
 
 <!-- part 12 -->
 <details>
-  <summary>Ethics Statement (_click to expand_)</summary>
+  <summary>Ethics Statement (click to expand)</summary>
   This course includes topics related to computer security and privacy. As part of this investigation, we may cover technologies whose abuse could infringe on the rights of others. As computer scientists, we rely on the ethical use of these technologies. Unethical use includes circumvention of an existing security or privacy mechanisms for any purpose, or the dissemination, promotion, or exploitation of vulnerabilities of these services. Any activity outside the letter or spirit of these guidelines will be reported to the proper authorities and may result in dismissal from the class and possibly more severe academic and legal sanctions.
 </details>
