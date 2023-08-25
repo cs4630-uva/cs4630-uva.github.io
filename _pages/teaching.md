@@ -67,9 +67,10 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Sept. 14</td>
-                <td> <strong> Format String Vulnerability, UAF </strong></td>
+                <td> <strong> Format String Vulnerability, UAF </strong>
                     <br>
                     Quiz 2
+                </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -86,9 +87,10 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Sept. 26</td>
-                <td > <strong> Control-flow Integrity II </strong></td>
+                <td > <strong> Control-flow Integrity II </strong>
                     <br>
                     Quiz 3
+                </td>
                 <td></td>
             </tr>
             <tr>
@@ -129,9 +131,10 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Oct. 19</td>
-                <td> <strong> Intrusion Detection II </strong> </td>
+                <td> <strong> Intrusion Detection II </strong> 
                     <br>
                     Quiz 4
+                </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -169,9 +172,10 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Nov. 9</td>
-                <td > <strong> Cross-Site Scripting (XSS) </strong> </td>
+                <td > <strong> Cross-Site Scripting (XSS) </strong> 
                     <br>
                     Quiz 5
+                </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -208,9 +212,10 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Nov. 30</td>
-                <td> <strong> VPN, Firewalls </strong> </td>
+                <td> <strong> VPN, Firewalls </strong> 
                     <br>
                     Quiz 6
+                </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
