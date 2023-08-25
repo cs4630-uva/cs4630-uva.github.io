@@ -49,7 +49,7 @@ nav_order: 1
                 <td ><strong>Buffer Overflow</strong><br>
                     Optional Reading: <a href="https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf">🔗 1</a>
                     <br>
-                    Quiz 1
+                    <button type="button" class="btn btn-primary">Quiz <span class="badge">1</span></button>
                 </td>
                 <td></td>
             </tr>
@@ -69,7 +69,7 @@ nav_order: 1
                 <td class="compact-date">Sept. 14</td>
                 <td> <strong> Format String Vulnerability, UAF </strong>
                     <br>
-                    Quiz 2
+                    <span class="label label-warning">Quiz 2</span>
                 </td>
                 <td>&nbsp;</td>
             </tr>
