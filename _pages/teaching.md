@@ -48,6 +48,8 @@ nav_order: 1
                 <td class="compact-date">Sept. 5</td>
                 <td ><strong>Buffer Overflow</strong><br>
                     Optional Reading: <a href="https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf">🔗 1</a>
+                    <br>
+                    Quiz 1
                 </td>
                 <td></td>
             </tr>
