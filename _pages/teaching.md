@@ -49,7 +49,7 @@ nav_order: 1
                 <td ><strong>Buffer Overflow</strong><br>
                     Optional Reading: <a href="https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf">🔗 1</a>
                     <br>
-                    <button type="button" class="btn btn-primary">Quiz <span class="badge">1</span></button>
+                    <button type="button" class="btn btn-primary btn-sm">Quiz 1</button>
                 </td>
                 <td></td>
             </tr>
@@ -69,7 +69,7 @@ nav_order: 1
                 <td class="compact-date">Sept. 14</td>
                 <td> <strong> Format String Vulnerability, UAF </strong>
                     <br>
-                    <span class="label label-warning">Quiz 2</span>
+                    <button type="button" class="btn btn-primary btn-sm">Quiz 2</button>
                 </td>
                 <td>&nbsp;</td>
             </tr>
@@ -89,7 +89,7 @@ nav_order: 1
                 <td class="compact-date">Sept. 26</td>
                 <td > <strong> Control-flow Integrity II </strong>
                     <br>
-                    Quiz 3
+                    <button type="button" class="btn btn-primary btn-sm">Quiz 3</button>
                 </td>
                 <td></td>
             </tr>
@@ -133,7 +133,7 @@ nav_order: 1
                 <td class="compact-date">Oct. 19</td>
                 <td> <strong> Intrusion Detection II </strong> 
                     <br>
-                    Quiz 4
+                    <button type="button" class="btn btn-primary btn-sm">Quiz 4</button>
                 </td>
                 <td>&nbsp;</td>
             </tr>
@@ -174,7 +174,7 @@ nav_order: 1
                 <td class="compact-date">Nov. 9</td>
                 <td > <strong> Cross-Site Scripting (XSS) </strong> 
                     <br>
-                    Quiz 5
+                    <button type="button" class="btn btn-primary btn-sm">Quiz 5</button>
                 </td>
                 <td>&nbsp;</td>
             </tr>
@@ -214,7 +214,7 @@ nav_order: 1
                 <td class="compact-date">Nov. 30</td>
                 <td> <strong> VPN, Firewalls </strong> 
                     <br>
-                    Quiz 6
+                    <button type="button" class="btn btn-primary btn-sm">Quiz 6</button>
                 </td>
                 <td>&nbsp;</td>
             </tr>
