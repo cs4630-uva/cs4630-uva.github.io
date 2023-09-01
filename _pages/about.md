@@ -34,7 +34,7 @@ This course aims to equip students with a comprehensive understanding of the mul
 ---
 ### Assignment TAs
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Arnabjyoti (Arnab) Kalita" email="mje6jj@virginia.edu" officehours="Office Hours: Mondays 11am - 12:30pm (Rice Hall 442)" Office="Rice Hall 442" url="" img="/assets/img/team/arnab.png" %}
+  {% include people_horizontal.html name="Arnabjyoti (Arnab) Kalita" email="mje6jj@virginia.edu" officehours="Office Hours: Mondays 2pm - 3:30pm (Rice Hall 442)" Office="Rice Hall 442" url="" img="/assets/img/team/arnab.png" %}
   {% include people_horizontal.html name="Di Zhu" email="yqx8es@virginia.edu" officehours="Office Hours: Mondays 3:30pm-5pm (Rice Hall 442)" Office="Rice Hall 442" url="" img="/assets/img/team/di.jpeg" %}
 </div>
 
