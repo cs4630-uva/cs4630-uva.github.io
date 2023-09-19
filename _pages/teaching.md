@@ -67,7 +67,7 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Sept. 14</td>
-                <td> <strong> Format String Vulnerability, UAF </strong>
+                <td> <strong> Format String Vulnerability, Return-to-libc, ROP  </strong>
                     <br>
                     <button type="button" class="btn btn-primary btn-sm">Quiz 2</button>
                 </td>
@@ -75,19 +75,19 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Sept. 19</td>
-                <td > <strong> Return-to-libc, ROP</strong></td>
+                <td > <strong> Return-to-libc, ROP, CFI</strong></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td class="compact-date">Sept. 21</td>
-                <td > <strong> Control-flow Integrity I </strong><br>
+                <td > <strong> Malware/Virus I </strong><br>
                     Optional Reading: <a href="p340-abadi.pdf">🔗 1</a>
                 </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td class="compact-date">Sept. 26</td>
-                <td > <strong> Control-flow Integrity II </strong>
+                <td > <strong> Malware/Virus II </strong>
                     <br>
                     <button type="button" class="btn btn-primary btn-sm">Quiz 3</button>
                 </td>
@@ -95,7 +95,7 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Sept. 28</td>
-                <td> <strong> Malware </strong></td>
+                <td> <strong> Malware/Virus III </strong></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -226,7 +226,7 @@ nav_order: 1
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td class="compact-date">TBD</td>
+                <td class="compact-date">Dec 8 9AM</td>
                 <td><strong style="color:red;">Final Exam 📝</strong></td>
                 <td>&nbsp;</td>
             </tr>
