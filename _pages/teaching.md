@@ -75,14 +75,14 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Sept. 19</td>
-                <td > <strong> Return-to-libc, ROP, CFI</strong></td>
+                <td > <strong> Return-to-libc, ROP, CFI</strong> <br>
+                Optional Reading: <a href="p340-abadi.pdf">🔗 1</a>
+                </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td class="compact-date">Sept. 21</td>
-                <td > <strong> Malware/Virus I </strong><br>
-                    Optional Reading: <a href="p340-abadi.pdf">🔗 1</a>
-                </td>
+                <td > <strong> Malware/Virus I </strong></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
