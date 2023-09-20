@@ -76,7 +76,7 @@ nav_order: 1
             <tr>
                 <td class="compact-date">Sept. 19</td>
                 <td > <strong> Return-to-libc, ROP, CFI</strong> <br>
-                Optional Reading: <a href="pdf/p340-abadi.pdf">🔗 1</a>
+                Optional Reading: <a href="/assets/pdf/p340-abadi.pdf">🔗 1</a>
                 </td>
                 <td>&nbsp;</td>
             </tr>
