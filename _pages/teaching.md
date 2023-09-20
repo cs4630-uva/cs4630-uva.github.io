@@ -87,7 +87,7 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Sept. 26</td>
-                <td > <strong> Malware/Virus II </strong>
+                <td > <strong> Malware/Virus II, Fuzzing I </strong>
                     <br>
                     <button type="button" class="btn btn-primary btn-sm">Quiz 3</button>
                 </td>
@@ -95,7 +95,7 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Sept. 28</td>
-                <td> <strong> Malware/Virus III </strong></td>
+                <td> <strong> Fuzzing II </strong></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
