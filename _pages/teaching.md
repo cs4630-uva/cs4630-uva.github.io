@@ -11,7 +11,7 @@ nav_order: 1
             <tr style="background-color: rgb(205, 205, 205);">
                 <th>Date</th>
                 <th>Lectures</th>
-                <th>Assignments</th>
+                <th>Notes</th>
             </tr>
 
             <tr>
@@ -19,7 +19,7 @@ nav_order: 1
                 <td> <strong> Course Intro / Administrivia </strong> <br>
                     Optional Reading: <a href="https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html">🔗 1</a>
                 </td>
-                <td><span class="label label-default">Assignment-0 released</span></td>
+                <td></td>
             </tr>
             <tr>
                 <td class="compact-date"> Aug. 24</td>
