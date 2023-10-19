@@ -139,7 +139,7 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Oct. 24</td>
-                <td> <strong> Digital Forensics</strong> </td>
+                <td> <strong> No Class</strong> </td>
                 <td>&nbsp;</td>
             </tr>
 
