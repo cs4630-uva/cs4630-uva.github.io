@@ -114,24 +114,24 @@ nav_order: 1
   </tr>
             <tr>
                 <td class="compact-date">Oct. 10</td>
-                <td> <strong> Audit Logging I </strong></td>
+                <td> <strong> Intrusion Detection </strong></td>
                 <td>&nbsp;</td>
             </tr>
 
 
             <tr>
                 <td class="compact-date">Oct. 12</td>
-                <td> <strong> Audit Logging II</strong></td>
+                <td> <strong> Audit Logging I</strong></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td class="compact-date">Oct. 17</td>
-                <td> <strong> Intrusion Detection I </strong></td>
+                <td> <strong> Audit Logging II </strong></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td class="compact-date">Oct. 19</td>
-                <td> <strong> Intrusion Detection II </strong> 
+                <td> <strong> Forensic Analysis </strong>
                     <br>
                     <button type="button" class="btn btn-primary btn-sm">Quiz 4</button>
                 </td>
