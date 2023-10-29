@@ -186,17 +186,17 @@ nav_order: 1
 </tr>
             <tr>
                 <td class="compact-date">Nov. 14</td>
-                <td > <strong> Network Basics </strong> </td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td class="compact-date">Nov. 16</td>
                 <td > <strong> DDoS </strong> </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
+                <td class="compact-date">Nov. 16</td>
+                <td > <strong> VPN and Firewalls</strong> </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
                 <td class="compact-date">Nov. 21</td>
-                <td ><strong> VPN, Firewalls  </strong></td>
+                <td ><strong> Cloud Computing Security </strong></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -228,7 +228,7 @@ nav_order: 1
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td class="compact-date">Dec 8 9AM</td>
+                <td class="compact-date">Dec 8 -- 9AM</td>
                 <td><strong style="color:red;">Final Exam 📝</strong></td>
                 <td>&nbsp;</td>
             </tr>
