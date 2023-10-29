@@ -150,19 +150,19 @@ nav_order: 1
 
             <tr>
                 <td class="compact-date">Oct. 26</td>
-                <td > <strong> Web Security I </strong> <br>
+                <td > <strong> The Web </strong> <br>
                     Optional Reading: <a href="https://www.smashingmagazine.com/2010/01/web-security-primer-are-you-part-of-the-problem/">🔗 1</a>
                 </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td class="compact-date">Oct. 31</td>
-                <td> <strong> Web Security II </strong> </td>
+                <td> <strong> Same Origin Policy and Cookies</strong> </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td class="compact-date">Nov. 2</td>
-                <td > <strong> Web Security III </strong> </td>
+                <td > <strong> Cross-Site Scripting (XSS) </strong> </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -172,30 +172,31 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Nov. 9</td>
-                <td > <strong> Cross-Site Scripting (XSS) </strong> 
+                <td > <strong> SQL Injection </strong>
                     <br>
                     <button type="button" class="btn btn-primary btn-sm">Quiz 5</button>
                 </td>
                 <td>&nbsp;</td>
             </tr>
-            <tr>
-                <td class="compact-date">Nov. 14</td>
-                <td > <strong> Cross-Site Request Forgery (CSRF) </strong> </td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td class="compact-date">Nov. 16</td>
-                <td > <strong> Clickjacking </strong> </td>
-                <td>&nbsp;</td>
-            </tr>
+
    <!-- Module 4 -->
     
    <tr>
     <th colspan="3" style="font-family: Pacifico; font-weight: normal; text-align: center; padding: 12px 12px;" class="success" >Module 4: Network Security</th>
 </tr>
             <tr>
+                <td class="compact-date">Nov. 14</td>
+                <td > <strong> Network Basics </strong> </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="compact-date">Nov. 16</td>
+                <td > <strong> DDoS </strong> </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
                 <td class="compact-date">Nov. 21</td>
-                <td ><strong> Network Basics </strong></td>
+                <td ><strong> VPN, Firewalls  </strong></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -203,25 +204,26 @@ nav_order: 1
                 <td style="color: rgb(0, 144, 144);">No Class - Thanksgiving 🦃</td>
                 <td>&nbsp;</td>
             </tr>
- 
             <tr>
                 <td class="compact-date">Nov. 28</td>
-                <td > <strong> Network Security I </strong></td>
+              <td > <strong>Tor and Anonymity Networks </strong><br>
+                    Optional Reading: <a href="https://www.torproject.org/about/overview/">🔗 1</a>
+                     <br>
+                    <button type="button" class="btn btn-primary btn-sm">Quiz 6</button>
+                    
+                </td>
                 <td>&nbsp;</td>
 
             </tr>
             <tr>
                 <td class="compact-date">Nov. 30</td>
-                <td> <strong> VPN, Firewalls </strong> 
-                    <br>
-                    <button type="button" class="btn btn-primary btn-sm">Quiz 6</button>
+                <td> <strong> TLS </strong>
                 </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td class="compact-date">Dec. 5</td>
-                <td > <strong>Tor and Anonymity Networks </strong><br>
-                    Optional Reading: <a href="https://www.torproject.org/about/overview/">🔗 1</a>
+                <td > Final Exam Review
                 </td>
                 <td>&nbsp;</td>
             </tr>
