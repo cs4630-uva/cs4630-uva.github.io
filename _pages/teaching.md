@@ -196,7 +196,7 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Nov. 21</td>
-                <td ><strong> Cloud Computing Security </strong></td>
+                <td> <strong> TLS </strong>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -217,7 +217,8 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Nov. 30</td>
-                <td> <strong> TLS </strong>
+                <td ><strong> Cloud Computing Security </strong></td>
+                
                 </td>
                 <td>&nbsp;</td>
             </tr>
