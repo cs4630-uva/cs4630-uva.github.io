@@ -218,14 +218,11 @@ nav_order: 1
             <tr>
                 <td class="compact-date">Nov. 30</td>
                 <td ><strong> Cloud Computing Security </strong></td>
-                
-                </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td class="compact-date">Dec. 5</td>
-                <td > Final Exam Review
-                </td>
+                <td > Final Exam Review </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
