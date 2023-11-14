@@ -191,12 +191,12 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Nov. 16</td>
-                <td > <strong> VPN and Firewalls</strong> </td>
+                <td > <strong> Low-Level Network Attacks</strong> </td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
                 <td class="compact-date">Nov. 21</td>
-                <td> <strong> TLS </strong>
+                <td> <strong> TLS/DNS </strong>
                 <td>&nbsp;</td>
             </tr>
             <tr>
@@ -207,7 +207,7 @@ nav_order: 1
             <tr>
                 <td class="compact-date">Nov. 28</td>
               <td > <strong>Tor and Anonymity Networks </strong><br>
-                    Optional Reading: <a href="https://www.torproject.org/about/overview/">🔗 1</a>
+                    Optional Reading: <a href="https://2019.www.torproject.org/about/overview">🔗 1</a>
                      <br>
                     <button type="button" class="btn btn-primary btn-sm">Quiz 6</button>
                     
