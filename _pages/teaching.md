@@ -206,7 +206,7 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Nov. 28</td>
-              <td > <strong> Low-Level Network Attacks II and Firewalls</strong>
+              <td > <strong> No Class</strong>
               <br>
                     <button type="button" class="btn btn-primary btn-sm">Quiz 6</button>
                     
@@ -216,7 +216,7 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Nov. 30</td>
-                <td ><strong> Cloud Computing Security </strong></td>
+                <td ><strong> Low-Level Network Attacks II </strong></td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
