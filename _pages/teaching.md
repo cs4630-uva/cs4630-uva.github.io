@@ -206,8 +206,7 @@ nav_order: 1
             </tr>
             <tr>
                 <td class="compact-date">Nov. 28</td>
-              <td > <strong> No Class</strong>
-              <br>
+              <td >
                     <button type="button" class="btn btn-primary btn-sm">Quiz 6</button>
                     
                 </td>
