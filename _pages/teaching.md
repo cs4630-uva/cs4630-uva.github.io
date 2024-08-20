@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: This schedule is subject to change. Please check back frequently. Major changes will be announced in class.
+description: This schedule is subject to change. Please check back here frequently. Major changes will be announced in class.
 nav: true
 nav_order: 1
 ---
